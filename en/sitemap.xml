@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>//devil-engineering.de/</loc>
-    <lastmod>2021-04-05T20:50:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//devil-engineering.de/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//devil-engineering.de/"
-                />
-  </url>
-  
   <url>
     <loc>//devil-engineering.de/legal-disclosure/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
@@ -30,9 +14,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/legal-disclosure/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/philosophy/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
@@ -45,9 +27,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/philosophy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/contact/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
@@ -60,9 +40,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/experience/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
@@ -75,9 +53,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/experience/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/publications/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
@@ -90,9 +66,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/publications/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/skills/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
@@ -105,9 +79,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/skills/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,9 +91,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -133,9 +103,19 @@
                 hreflang="en"
                 href="//devil-engineering.de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//devil-engineering.de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//devil-engineering.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//devil-engineering.de/"
+                />
+  </url><url>
     <loc>//devil-engineering.de/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -147,9 +127,7 @@
                 hreflang="en"
                 href="//devil-engineering.de/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//devil-engineering.de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -162,5 +140,4 @@
                 href="//devil-engineering.de/tags/"
                 />
   </url>
-  
 </urlset>
