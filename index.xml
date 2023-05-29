@@ -5,15 +5,70 @@
     <link>//devil-engineering.de/</link>
     <description>Recent content on dev.IL engineering</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="//devil-engineering.de/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//devil-engineering.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>imprint according to §5 Telemediengesetz</title>
-      <link>//devil-engineering.de/imprint/</link>
+      <title>Legal Disclosure</title>
+      <link>//devil-engineering.de/legal-disclosure/</link>
       <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
       
-      <guid>//devil-engineering.de/imprint/</guid>
-      <description>responsible for the content of this:    Marcus KimpenhausHöhmanns Siepen 10D-44795 Bochumfon: +49 (0)171 - 4914407mail: kimpenhaus-at-devil-engineering.de
-copyright    all rights reserved. text, images, graphics, sound, animations and videos as well as the arrangement of the same on this website are protected by the german copyright and other commercial protective rights. the content of the website may not be copied, disseminated, altered or made accessible to third parties for commercial purposes.</description>
+      <guid>//devil-engineering.de/legal-disclosure/</guid>
+      <description>Information according to § 5 TMG (German Telemedia Act)    Marcus Kimpenhaus
+Höhmanns Siepen 10
+D-44795 Bochum
+Deutschland
+Contact:    telephon: +49 (0)171 - 4914407
+email: legal-disclosure@devil-engineering.de
+Responsible for the content according to § 55(2) RStV (Interstate Broadcasting Treaty):    Marcus Kimpenhaus
+Höhmanns Siepen 10
+D-44795 Bochum
+Deutschland
+Disclaimer:    The information provided on this website is for general informational purposes only. While we strive to keep the information accurate and up to date, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.</description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>//devil-engineering.de/philosophy/</link>
+      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
+      
+      <guid>//devil-engineering.de/philosophy/</guid>
+      <description>With over 20 years of experience in crafting and delivering enterprise-scale applications, I bring a wealth of knowledge and expertise to the table. As a freelance Cloud Engineer and DevOps specialist, I am dedicated to helping businesses leverage the power of modern technologies to achieve their goals efficiently and securely.
+My philosophy revolves around the core principle of continuous improvement. I strongly believe that technology is ever-evolving, and staying ahead of the curve is essential to drive innovation and deliver exceptional results.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>//devil-engineering.de/contact/</link>
+      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
+      
+      <guid>//devil-engineering.de/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>//devil-engineering.de/experience/</link>
+      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
+      
+      <guid>//devil-engineering.de/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>//devil-engineering.de/publications/</link>
+      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
+      
+      <guid>//devil-engineering.de/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>//devil-engineering.de/skills/</link>
+      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
+      
+      <guid>//devil-engineering.de/skills/</guid>
+      <description></description>
     </item>
     
   </channel>

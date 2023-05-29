@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on dev.IL engineering</title>
-    <link>//devil-engineering.de/tags/</link>
+    <link>//devil-engineering.de/de/tags/</link>
     <description>Recent content in Tags on dev.IL engineering</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//devil-engineering.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//devil-engineering.de/de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
