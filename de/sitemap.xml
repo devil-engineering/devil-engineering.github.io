@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//devil-engineering.de/de/experience/</loc>
+    <lastmod>2021-04-05T20:50:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//devil-engineering.de/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//devil-engineering.de/de/experience/"
+                />
+  </url><url>
     <loc>//devil-engineering.de/de/legal-disclosure/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
@@ -13,19 +26,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="//devil-engineering.de/de/legal-disclosure/"
-                />
-  </url><url>
-    <loc>//devil-engineering.de/de/philosophy/</loc>
-    <lastmod>2021-04-05T20:50:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//devil-engineering.de/philosophy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//devil-engineering.de/de/philosophy/"
                 />
   </url><url>
     <loc>//devil-engineering.de/de/contact/</loc>
@@ -41,17 +41,17 @@
                 href="//devil-engineering.de/de/contact/"
                 />
   </url><url>
-    <loc>//devil-engineering.de/de/experience/</loc>
+    <loc>//devil-engineering.de/de/philosophy/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//devil-engineering.de/experience/"
+                href="//devil-engineering.de/philosophy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//devil-engineering.de/de/experience/"
+                href="//devil-engineering.de/de/philosophy/"
                 />
   </url><url>
     <loc>//devil-engineering.de/de/publications/</loc>

@@ -2,32 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//devil-engineering.de/legal-disclosure/</loc>
-    <lastmod>2021-04-05T20:50:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//devil-engineering.de/de/legal-disclosure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//devil-engineering.de/legal-disclosure/"
-                />
-  </url><url>
-    <loc>//devil-engineering.de/philosophy/</loc>
-    <lastmod>2021-04-05T20:50:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//devil-engineering.de/de/philosophy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//devil-engineering.de/philosophy/"
-                />
-  </url><url>
     <loc>//devil-engineering.de/contact/</loc>
     <lastmod>2021-04-05T20:50:44+02:00</lastmod>
     <xhtml:link
@@ -52,6 +26,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="//devil-engineering.de/experience/"
+                />
+  </url><url>
+    <loc>//devil-engineering.de/legal-disclosure/</loc>
+    <lastmod>2021-04-05T20:50:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//devil-engineering.de/de/legal-disclosure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//devil-engineering.de/legal-disclosure/"
+                />
+  </url><url>
+    <loc>//devil-engineering.de/philosophy/</loc>
+    <lastmod>2021-04-05T20:50:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="//devil-engineering.de/de/philosophy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//devil-engineering.de/philosophy/"
                 />
   </url><url>
     <loc>//devil-engineering.de/publications/</loc>
