@@ -7,12 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="//devil-engineering.de/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fachkompetenz</title>
+      <title>Erfahrung</title>
       <link>//devil-engineering.de/de/experience/</link>
       <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
       
       <guid>//devil-engineering.de/de/experience/</guid>
-      <description></description>
+      <description> Current position 2 Jahre 5 Monate I&amp;rsquo;m working here
+2023 Old position 22 Jahre I worked here
+2021 </description>
+    </item>
+    
+    <item>
+      <title>Fachkompetenz</title>
+      <link>//devil-engineering.de/de/skills/</link>
+      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
+      
+      <guid>//devil-engineering.de/de/skills/</guid>
+      <description> Sprachen Sprache Zeitraum Erfahrung C# 2000 - heute ++++ Java 1999 - 2002 ++++ Azure [ { &amp;#34;T&amp;#34;: 1 } ] Kubernetes Goodbye Everybody! Datenbanken Goodbye Everybody! </description>
     </item>
     
     <item>
@@ -59,16 +70,9 @@ Meine Philosophie basiert auf dem Prinzip kontinuierlicher Verbesserung. Ich bin
       <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
       
       <guid>//devil-engineering.de/de/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>//devil-engineering.de/de/skills/</link>
-      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
-      
-      <guid>//devil-engineering.de/de/skills/</guid>
-      <description> Sprachen Sprache Zeitraum Erfahrung C# 2000 - heute ++++ Java 1999 - 2002 ++++ Azure [ { &amp;#34;T&amp;#34;: 1 } ] Kubernetes Goodbye Everybody! Datenbanken Goodbye Everybody! </description>
+      <description> Current position I&amp;rsquo;m working here
+2021 Old position I worked here
+2021 </description>
     </item>
     
   </channel>
