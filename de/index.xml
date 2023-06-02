@@ -68,9 +68,11 @@ Meine Philosophie basiert auf dem Prinzip kontinuierlicher Verbesserung. Ich bin
       <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
       
       <guid>//devil-engineering.de/de/publications/</guid>
-      <description>Fake the Unfakeable - Isolating Code Under Test with Microsoft Fakes© Presentation here
-Modules on GitHub 2014 Was dir Trivialbeispiele in Async and Await nicht sagen! Presentation here
-Modules on GitHub 2014 ASP.NET MVC NUnit An Visual Studio extension which adds a project and an item template to generate NUnit based tests of ASP.NET MVC 3 and ASP.NET MVC 4 applications. NUnit as NuGet package reference is already is included.</description>
+      <description>Fake the Unfakeable Talk about Isolating Code Under Test with Microsoft Fakes©
+Find slides here and modules on GitHub
+2014 Was dir Trivialbeispiele in Async and Await nicht sagen! Talk about evolution of asynchronous development and patterns when using async/await
+Find slides here and modules on GitHub
+2014 ASP.NET MVC NUnit An Visual Studio extension which adds a project and an item template to generate NUnit based tests of ASP.</description>
     </item>
     
   </channel>
