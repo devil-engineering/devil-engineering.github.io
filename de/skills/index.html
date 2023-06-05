@@ -170,22 +170,46 @@
         var list = [
 
 
-['Azure Managed Kubernetes Service (AKS)', 5],
+['Kubernetes', 12],
 
 
-['.NET', 10],
+['Docker', 14],
+
+
+['.NET', 20],
 
 
 ['Python', 4],
 
 
-['PHP', 6],
+['PHP', 8],
 
 
 ['Java', 6],
 
 
+['Javascript', 6],
+
+
 ['CosmosDB', 7],
+
+
+['SQL Server', 16],
+
+
+['T-SQL', 20],
+
+
+['MSTest', 20],
+
+
+['NUnit', 15],
+
+
+['Moq', 12],
+
+
+['FluentAssertions', 10],
 ];
         WordCloud(
             document.getElementById('skill_cloud'),
@@ -194,7 +218,11 @@
                 backgroundColor: "transparent",
                 color: '#5b82ad',
                 gridSize: 18,
-                weightFactor: 8,
+                weightFactor: 5,
+                shape: 'pentagon',
+                wait: 100,
+                shuffle: true,
+                rotateRatio: 0.4,
              } );
 </script>
 
