@@ -161,69 +161,83 @@
       </h3>
     </header>
 
-    <canvas id="skill_cloud" class="skill_cloud" width="768" height="768"></canvas>
+    
+<script src="/js/d3.js"></script>
 
 
-<script src="/js/wordcloud2.js"></script>
+<script src="/js/d3.layout.cloud.js"></script>
 
 <script type="text/javascript">
-        var list = [
-
-
-['Kubernetes', 12],
-
-
-['Docker', 14],
-
-
-['.NET', 20],
-
-
-['Python', 4],
-
-
-['PHP', 8],
-
-
-['Java', 6],
-
-
-['Javascript', 6],
-
-
-['CosmosDB', 7],
-
-
-['SQL Server', 16],
-
-
-['T-SQL', 20],
-
-
-['MSTest', 20],
-
-
-['NUnit', 15],
-
-
-['Moq', 12],
-
-
-['FluentAssertions', 10],
+        var skills = [
+"Kubernetes",
+"API Management",
+"Docker",
+".NET",
+"Python",
+"PHP",
+"Java",
+"Javascript",
+"CosmosDB",
+"SQL Server",
+"T-SQL",
+"MSTest",
+"NUnit",
+"Moq",
+"FluentAssertions",
+"Visual Studio",
+"Rider",
+"C#",
 ];
-        WordCloud(
-            document.getElementById('skill_cloud'),
-             {
-                list: list,
-                backgroundColor: "transparent",
-                color: '#5b82ad',
-                gridSize: 18,
-                weightFactor: 5,
-                shape: 'pentagon',
-                wait: 100,
-                shuffle: true,
-                rotateRatio: 0.4,
-             } );
+
+        var color = d3.scaleOrdinal(d3.schemePastel1);
+        var layout = d3.layout.cloud()
+            .size([768, 768])
+            .words(skills.map(function(d) {
+               return {text: d, size: 10 + Math.random() * 90, test: "haha"};
+            }))
+            .padding(5)
+            .rotate(function() { return (~~(Math.random() * 6) - 3) * 30; })
+            .spiral("archimedean")
+            .font("Impact")
+            .fontSize(function(d) { return d.size; })
+            .on("end", draw);
+
+         layout.start();
+
+         function draw(words, e) {
+            var svg = d3.select("article").append("svg")
+               .attr("width", layout.size()[0])
+               .attr("height", layout.size()[1]);
+
+            var vis = svg
+              .append("g")
+              .attr("transform", "translate(" + [768 >> 1, 768 >> 1] + ")")
+
+            vis.selectAll("text")
+               .data(words)
+            .enter().append("text")
+               .style("font-size", function(d) { return d.size + "px"; })
+               .style("font-family", "Impact")
+               .style("fill", function(d) { return color(d.text.toLowerCase()); })
+               .attr("text-anchor", "middle")
+               .attr("transform", function(d) { return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")"; })
+               .text(function(d) { return d.text; });
+
+               vis
+                   .transition()
+                   .delay(1e3)
+                   .duration(750)
+                   .attr("transform", "translate(" + [768 >> 1, 768 >> 1] + ")scale(1)");
+
+            var background = svg.append("g").attr("transform", vis.attr("transform"));
+
+            background
+               .transition()
+               .duration(1e3)
+               .style("opacity", 1e-6).remove()
+               .attr("transform", "translate(" + layout.size()[0] / 2 + "," + layout.size()[1] / 2 + ")");
+
+}
 </script>
 
   </article>
