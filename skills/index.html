@@ -13,15 +13,15 @@
 
 
 <meta name="author" content="Marcus Kimpenhaus">
-<meta name="description" content="">
+<meta name="description" content=" ">
 <meta name="keywords" content="">
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Skills"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content=" "/>
 
 <meta property="og:title" content="Skills" />
-<meta property="og:description" content="" />
+<meta property="og:description" content=" " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="//devil-engineering.de/skills/" /><meta property="article:section" content="" />
 <meta property="article:published_time" content="2021-04-05T20:50:44+02:00" />
@@ -162,6 +162,111 @@
     </header>
 
     
+<script src="/js/d3.js"></script>
+
+
+<script src="/js/d3.layout.cloud.js"></script>
+
+<script type="text/javascript">
+        var skills = [
+".NET",
+"Agil",
+"API Management",
+"ASP.NET MVC",
+"ASP.NET WebApi",
+"AppConfiguration",
+"Azure AppServices",
+"Azure Functions",
+"Azure DevOps",
+"Azure Pipelines",
+"Backbone.js",
+"C",
+"C#",
+"C++",
+"CosmosDB",
+"Docker",
+"EMC Centera",
+"Elastic jobs",
+"Entity Framework",
+"Event Grid",
+"FluentAssertions",
+"Helm",
+"Java",
+"Javascript",
+"keda.sh",
+"Kubernetes",
+"KQL",
+"Marionette.js",
+"MongoDB",
+"Moq",
+"MSTest",
+"NUnit",
+"PHP",
+"PRISM",
+"Python",
+"Replication",
+"Rider",
+"Scrum",
+"SQL Server",
+"T-SQL",
+"TypeScript",
+"Visual Studio",
+"WCF",
+"WF",
+"WPF",
+];
+
+        var color = d3.scaleOrdinal(d3.schemePastel1);
+        var layout = d3.layout.cloud()
+            .size([768, 768])
+            .words(skills.map(function(d) {
+               return {text: d, size: 10 + Math.random() * 90, test: "haha"};
+            }))
+            .padding(5)
+            .rotate(function() { return (~~(Math.random() * 6) - 3) * 30; })
+            .spiral("archimedean")
+            .font("Impact")
+            .fontSize(function(d) { return d.size; })
+            .on("end", draw);
+
+         layout.start();
+
+         function draw(words, e) {
+            var svg = d3.select("article").append("svg")
+               .attr("width", layout.size()[0])
+               .attr("height", layout.size()[1]);
+
+            var vis = svg
+              .append("g")
+              .attr("transform", "translate(" + [768 >> 1, 768 >> 1] + ")")
+
+            vis.selectAll("text")
+               .data(words)
+            .enter().append("text")
+               .style("font-size", function(d) { return d.size + "px"; })
+               .style("font-family", "Impact")
+               .style("fill", function(d) { return color(d.text.toLowerCase()); })
+               .attr("text-anchor", "middle")
+               .attr("transform", function(d) { return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")"; })
+               .text(function(d) { return d.text; });
+
+               vis
+                   .transition()
+                   .delay(1e3)
+                   .duration(750)
+                   .attr("transform", "translate(" + [768 >> 1, 768 >> 1] + ")scale(1)");
+
+            var background = svg.append("g").attr("transform", vis.attr("transform"));
+
+            background
+               .transition()
+               .duration(1e3)
+               .style("opacity", 1e-6).remove()
+               .attr("transform", "translate(" + layout.size()[0] / 2 + "," + layout.size()[1] / 2 + ")");
+
+}
+</script>
+
   </article>
 </section>
 
