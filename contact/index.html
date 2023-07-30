@@ -74,6 +74,7 @@
 
 
 
+<script src="https://www.google.com/recaptcha/api.js?render=reCAPTCHA_6Lca22gnAAAAAJEEn4awpPkNSfyyih28axysQzrL"></script>
 
 
 </head>
@@ -167,9 +168,19 @@
     <div><input class="form-text-input" type="email" name="email" placeholder="your email" required="required"></div>
     <div><textarea class="form-text-input" cols="30" rows="10" name="message" placeholder="your message" required="required"></textarea></div>
     <input type="hidden" name="utf8" value="✓">
+    <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
     <button class="form-submit" type="submit">get in touch</button>
 
 </form>
+
+<script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6Lca22gnAAAAAJEEn4awpPkNSfyyih28axysQzrL', {action: 'homepage'})
+        .then(function(token) {
+          document.getElementById('captchaResponse').value = token;
+        });
+      });
+ </script>
 
   </article>
 </section>
