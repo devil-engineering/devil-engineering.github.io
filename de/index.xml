@@ -1,83 +1,1066 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dev.IL engineering</title>
-    <link>//devil-engineering.de/de/</link>
-    <description>Recent content on dev.IL engineering</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//devil-engineering.de/de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Erfahrung</title>
-      <link>//devil-engineering.de/de/experience/</link>
-      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
-      
-      <guid>//devil-engineering.de/de/experience/</guid>
-      <description>Mit einer beeindruckenden Erfolgsbilanz weltweit habe ich innovative Projekte in Malaysia, Saudi-Arabien, Mexiko, Oman und Deutschland erfolgreich umgesetzt. Von der Entwicklung bahnbrechender Anwendungen bis hin zur Gestaltung robuster Unternehmenslösungen habe ich herausragende Ergebnisse innerhalb der angegebenen Zeiträume erzielt. Entdecken Sie meine Projekte und erfahren Sie, wie meine Expertise und Hingabe Unternehmen in verschiedenen Branchen über Kontinente hinweg stärkt.
-Freelancer Senior .NET Consultant, MCITP, MCTS, SCRUM Master Ort: weltweit Seit: 15 Jahre 10 Monate 2024 EnBW (Energie Baden-Württemberg AG) Ort: Köln / Karlsruhe, Deutschland Seit: 5 Jahre 1 Monat 2024 Parental Leave Ort: Japan, Südkorea, Vereinigte Arabische Emirate, Südafrika Dauer: 1 Jahr 2019 EnBW (Energie Baden-Württemberg AG) Ort: Köln / Karlsruhe, Deutschland Dauer: 3 Jahre 9 Monate 2018 EAS Engineering Automation Systems GmbH Ort: Kirchhundem, Deutschland Dauer: 6 Monate 2014 Elster GmbH / Kromschröder Ort: Osnabrück, Deutschland Dauer: 3 Monate 2014 Stadtsparkasse Düsseldorf Ort: Düsseldorf, Deutschland Dauer: 6 Monate 2014 Tengelmann Energie GmbH Ort: Mülheim an der Ruhr, Deutschland Dauer: 1 Monat 2014 EAS Engineering Automation Systems GmbH Ort: Kirchhundem, Deutschland Dauer: 4 Monate 2014 Saphir Software GmbH Ort: Leverkusen, Deutschland Dauer: 3 Monate 2013 Able Management Services GmbH Ort: Gummersbach, Deutschland Dauer: 1 Monat 2013 Jenoptik GmbH Ort: Mohnheim, Deutschland / Maskat, Oman Dauer: 11 Monate 2013 Jenoptik Robot Malaysia Sdn.</description>
-    </item>
-    
-    <item>
-      <title>Fachkompetenz</title>
-      <link>//devil-engineering.de/de/skills/</link>
-      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
-      
-      <guid>//devil-engineering.de/de/skills/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Impressum</title>
-      <link>//devil-engineering.de/de/legal-disclosure/</link>
-      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
-      
-      <guid>//devil-engineering.de/de/legal-disclosure/</guid>
-      <description>Angaben gemäß § 5 TMG (Telemediengesetz) Link to heading Marcus Kimpenhaus
-Höhmanns Siepen 10
-D-44795 Bochum
-Deutschland
-Kontakt: Link to heading Telefon: +49 (0)171 - 4914407
-Email: legal-disclosure@devil-engineering.de
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV (Rundfunkstaatsvertrag): Link to heading Marcus Kimpenhaus
-Höhmanns Siepen 10
-D-44795 Bochum
-Deutschland
-Haftungsausschluss: Link to heading Die Informationen auf dieser Website dienen nur allgemeinen Informationszwecken. Obwohl wir bestrebt sind, die Informationen korrekt und aktuell zu halten, übernehmen wir keine Gewähr für die Vollständigkeit, Richtigkeit, Zuverlässigkeit, Eignung oder Verfügbarkeit in Bezug auf die Website oder die auf der Website enthaltenen Informationen, Produkte, Dienstleistungen oder zugehörigen Grafiken.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>//devil-engineering.de/de/contact/</link>
-      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
-      
-      <guid>//devil-engineering.de/de/contact/</guid>
-      <description>Vielen Dank für Ihr Interesse an meiner Person. Wenn Sie Fragen haben, weitere Informationen benötigen oder einfach nur in Kontakt treten möchten, freue ich mich darauf, von Ihnen zu hören.
-Der einfachste Weg, um mich zu erreichen, ist über eine Nachricht auf meinem LinkedIn-Profil. Klicken Sie einfach auf den untenstehenden Link und senden Sie mir eine Nachricht. Ich werde mich so schnell wie möglich bei Ihnen melden.
-LinkedIn-Profil
-Ich freue mich darauf, von Ihnen zu hören!</description>
-    </item>
-    
-    <item>
-      <title>Philosophie</title>
-      <link>//devil-engineering.de/de/philosophy/</link>
-      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
-      
-      <guid>//devil-engineering.de/de/philosophy/</guid>
-      <description>Mit über 20 Jahren Erfahrung im Aufbau von enterprise-scale Anwendungen bringe ich ein umfangreiches Wissen und Fachkenntnisse mit. Als freiberuflicher Cloud- und DevOps-Engineer bin ich darauf spezialisiert, Unternehmen dabei zu helfen, die Kraft moderner Technologien effizient und sicher zu nutzen, um ihre Ziele zu erreichen.
-Meine Philosophie basiert auf dem Prinzip kontinuierlicher Verbesserung. Ich bin fest davon überzeugt, dass Technologie sich ständig weiterentwickelt und es entscheidend ist, stets auf dem neuesten Stand zu bleiben, um Innovationen voranzutreiben und außergewöhnliche Ergebnisse zu erzielen.</description>
-    </item>
-    
-    <item>
-      <title>Publikationen</title>
-      <link>//devil-engineering.de/de/publications/</link>
-      <pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate>
-      
-      <guid>//devil-engineering.de/de/publications/</guid>
-      <description>Tauchen Sie ein in eine Sammlung meiner Plugins, Extensions und inspirierenden Vorträge die ich in den letzten Jahren der Community zur Verfügung gestellt habe.
-Fake the Unfakeable Talk about Isolating Code Under Test with Microsoft Fakes©
-Find slides here and modules on GitHub
-2014 Was dir Trivialbeispiele in Async and Await nicht sagen! Talk about evolution of asynchronous development and patterns when using async/await
-Find slides here and modules on GitHub</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dev.IL engineering</title><link>//devil-engineering.de/de/</link><description>Recent content on dev.IL engineering</description><generator>Hugo</generator><language>de</language><lastBuildDate>Mon, 05 Apr 2021 20:50:44 +0200</lastBuildDate><atom:link href="//devil-engineering.de/de/index.xml" rel="self" type="application/rss+xml"/><item><title>Erfahrung</title><link>//devil-engineering.de/de/experience/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/de/experience/</guid><description>&lt;p>Mit einer beeindruckenden Erfolgsbilanz weltweit habe ich innovative Projekte in Malaysia, Saudi-Arabien, Mexiko, Oman und Deutschland erfolgreich umgesetzt. Von der Entwicklung bahnbrechender Anwendungen bis hin zur Gestaltung robuster Unternehmenslösungen habe ich herausragende Ergebnisse innerhalb der angegebenen Zeiträume erzielt. Entdecken Sie meine Projekte und erfahren Sie, wie meine Expertise und Hingabe Unternehmen in verschiedenen Branchen über Kontinente hinweg stärkt.&lt;/p>
+&lt;div class="timeline">
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Freelancer&lt;/div>
+ &lt;div class="body">Senior .NET Consultant, MCITP, MCTS, SCRUM Master&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>weltweit
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Seit: &lt;/span> 16 Jahre 9 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2025&lt;/div>
+&lt;/div>
+
+ 
+&lt;hr class="projects">
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">EnBW (Energie Baden-Württemberg AG)&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Köln / Karlsruhe, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Seit: &lt;/span> 6 Jahre
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2025&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Parental Leave&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Japan, Südkorea, Vereinigte Arabische Emirate, Südafrika
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 1 Jahr
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2019&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">EnBW (Energie Baden-Württemberg AG)&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Köln / Karlsruhe, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 3 Jahre 9 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2018&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">EAS Engineering Automation Systems GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Kirchhundem, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 6 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2014&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Elster GmbH / Kromschröder&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Osnabrück, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 3 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2014&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Stadtsparkasse Düsseldorf&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Düsseldorf, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 6 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2014&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Tengelmann Energie GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Mülheim an der Ruhr, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 1 Monat
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2014&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">EAS Engineering Automation Systems GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Kirchhundem, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 4 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2014&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Saphir Software GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Leverkusen, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 3 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2013&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Able Management Services GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Gummersbach, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 1 Monat
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2013&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Jenoptik GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Mohnheim, Deutschland / Maskat, Oman
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 11 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2013&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Jenoptik Robot Malaysia Sdn. Bhd.&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Kuala Lumpur, Malaysia
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 6 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2012&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Jenoptik GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Mohnheim, Deutschland / Dschidda, Saudi-Arabien / Mexiko-Stadt, Mexiko
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 1 Jahr 10 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2012&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Rowa Automatisierungssysteme GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Kelberg, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 4 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2010&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Bassier, Bergmann &amp;amp; Kindler GmbH / PV Automotive GmbH&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Oberhausen / Essen, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 1 Jahr 2 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2010&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">MGI Metro Group&lt;/div>
+ &lt;div class="body">&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Düsseldorf, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 4 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2009&lt;/div>
+&lt;/div>
+
+ 
+&lt;hr class="projects">
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Plus Warenhandelsgesellschaft mbH&lt;/div>
+ &lt;div class="body">Senior Software-Engineer&lt;br>
+stellv. Abteilungsleiter&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Mülheim an der Ruhr, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 5 Jahre 8 Monate
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2008&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">TriNiverse GmbH / atricos GmbH&lt;/div>
+ &lt;div class="body">Software-Engineer&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Gladbeck, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 2 Jahre 1 Monat
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2003&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Siemens AG&lt;/div>
+ &lt;div class="body">Junior Software-Engineer&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Kamp-Lintfort, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 2 Jahre
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2001&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Ruhr-Universität Bochum&lt;/div>
+ &lt;div class="body">Bauingenieurwesen&lt;/div>
+ &lt;div class="meta">
+ 
+ &lt;span class="location">Ort: &lt;/span>Bochum, Deutschland
+ 
+ 
+ &lt;span class="delimiter"/> 
+ &lt;span class="moment">Dauer: &lt;/span> 4 Jahre
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">1999&lt;/div>
+&lt;/div>
+
+&lt;/div></description></item><item><title>Fachkompetenz</title><link>//devil-engineering.de/de/skills/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/de/skills/</guid><description>&lt;script src="//devil-engineering.de/js/d3.js">&lt;/script>
+
+
+&lt;script src="//devil-engineering.de/js/d3.layout.cloud.js">&lt;/script>
+
+&lt;script type="text/javascript">
+ var skills = [
+".NET",
+"Agil",
+"API Management",
+"ASP.NET MVC",
+"ASP.NET WebApi",
+"AppConfiguration",
+"Azure AppServices",
+"Azure Functions",
+"Azure DevOps",
+"Azure Pipelines",
+"Backbone.js",
+"C",
+"C#",
+"C++",
+"CosmosDB",
+"Docker",
+"EMC Centera",
+"Elastic jobs",
+"Entity Framework",
+"Event Grid",
+"FluentAssertions",
+"Helm",
+"Java",
+"Javascript",
+"keda.sh",
+"Kubernetes",
+"KQL",
+"Marionette.js",
+"MongoDB",
+"Moq",
+"MSTest",
+"NUnit",
+"PHP",
+"PRISM",
+"Python",
+"Replication",
+"Rider",
+"Scrum",
+"SQL Server",
+"T-SQL",
+"TypeScript",
+"Visual Studio",
+"WCF",
+"WF",
+"WPF",
+];
+
+ var color = d3.scaleOrdinal(d3.schemePastel1);
+ var layout = d3.layout.cloud()
+ .size([768, 768])
+ .words(skills.map(function(d) {
+ return {text: d, size: 10 + Math.random() * 90, test: "testing"};
+ }))
+ .padding(5)
+ .rotate(function() { return (~~(Math.random() * 6) - 3) * 30; })
+ .spiral("archimedean")
+ .font("Impact")
+ .fontSize(function(d) { return d.size; })
+ .on("end", draw);
+
+ layout.start();
+
+ function draw(words) {
+ const width = layout.size()[0];
+ const height = layout.size()[1];
+
+ d3.select("article").select("svg").remove();
+
+ const svg = d3.select("article").append("svg")
+ .attr("width", width)
+ .attr("height", height);
+
+ const vis = svg.append("g")
+ .attr("transform", "translate(" + (width / 2) + "," + (height / 2) + ")");
+
+ const textElements = vis.selectAll("text")
+ .data(words)
+ .enter().append("text")
+ .style("font-size", "1px")
+ .style("font-family", layout.font())
+ .style("fill", function(d) { return color(d.text.toLowerCase()); })
+ .attr("text-anchor", "middle")
+ .attr("transform", function(d) {
+ return "translate(0,0)rotate(" + d.rotate + ")";
+ })
+ .style("opacity", 1e-6)
+ .text(function(d) { return d.text; });
+
+ textElements.transition()
+ .duration(1000)
+ .delay(function(d, i) { return i * 20; })
+ .style("font-size", function(d) { return d.size + "px"; })
+ .attr("transform", function(d) {
+ return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+ })
+ .style("opacity", 1);
+ }
+&lt;/script></description></item><item><title>Impressum</title><link>//devil-engineering.de/de/legal-disclosure/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/de/legal-disclosure/</guid><description>&lt;h5 id="angaben-gemäß--5-tmg-telemediengesetz">
+ Angaben gemäß § 5 TMG (Telemediengesetz)
+ &lt;a class="heading-link" href="#angaben-gem%c3%a4%c3%9f--5-tmg-telemediengesetz">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h5>
+&lt;p>Marcus Kimpenhaus&lt;br>
+Höhmanns Siepen 10&lt;br>
+D-44795 Bochum&lt;br>
+Deutschland&lt;/p>
+&lt;h6 id="kontakt">
+ Kontakt:
+ &lt;a class="heading-link" href="#kontakt">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h6>
+&lt;p>Telefon: +49 (0)171 - 4914407&lt;br>
+Email: &lt;a href="mailto:legal-disclosure@devil-engineering.de" >legal-disclosure@devil-engineering.de&lt;/a>&lt;/p>
+&lt;h5 id="verantwortlich-für-den-inhalt-nach--55-abs-2-rstv-rundfunkstaatsvertrag">
+ Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV (Rundfunkstaatsvertrag):
+ &lt;a class="heading-link" href="#verantwortlich-f%c3%bcr-den-inhalt-nach--55-abs-2-rstv-rundfunkstaatsvertrag">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h5>
+&lt;p>Marcus Kimpenhaus&lt;br>
+Höhmanns Siepen 10&lt;br>
+D-44795 Bochum&lt;br>
+Deutschland&lt;/p>
+&lt;h5 id="haftungsausschluss">
+ Haftungsausschluss:
+ &lt;a class="heading-link" href="#haftungsausschluss">
+ &lt;i class="fa fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h5>
+&lt;p>Die Informationen auf dieser Website dienen nur allgemeinen Informationszwecken. Obwohl wir bestrebt sind, die Informationen korrekt und aktuell zu halten, übernehmen wir keine Gewähr für die Vollständigkeit, Richtigkeit, Zuverlässigkeit, Eignung oder Verfügbarkeit in Bezug auf die Website oder die auf der Website enthaltenen Informationen, Produkte, Dienstleistungen oder zugehörigen Grafiken. Jegliches Vertrauen, das Sie in solche Informationen setzen, geschieht daher auf eigene Gefahr.&lt;/p></description></item><item><title>Kontakt</title><link>//devil-engineering.de/de/contact/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/de/contact/</guid><description>&lt;p>Vielen Dank für Ihr Interesse an meiner Person. Wenn Sie Fragen haben, weitere Informationen benötigen oder einfach nur in Kontakt treten möchten, freue ich mich darauf, von Ihnen zu hören.&lt;/p>
+&lt;p>Der einfachste Weg, um mich zu erreichen, ist über eine Nachricht auf meinem LinkedIn-Profil. Klicken Sie einfach auf den untenstehenden Link und senden Sie mir eine Nachricht. Ich werde mich so schnell wie möglich bei Ihnen melden.&lt;/p>
+&lt;p>&lt;a href="https://www.linkedin.com/in/kimpenhaus/" class="external-link" target="_blank" rel="noopener">LinkedIn-Profil&lt;/a>&lt;/p>
+&lt;p>Ich freue mich darauf, von Ihnen zu hören!&lt;/p></description></item><item><title>Philosophie</title><link>//devil-engineering.de/de/philosophy/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/de/philosophy/</guid><description>&lt;p>Mit über 20 Jahren Erfahrung im Aufbau von enterprise-scale Anwendungen bringe ich ein umfangreiches Wissen und Fachkenntnisse mit. Als freiberuflicher Cloud- und DevOps-Engineer bin ich darauf spezialisiert, Unternehmen dabei zu helfen, die Kraft moderner Technologien effizient und sicher zu nutzen, um ihre Ziele zu erreichen.&lt;/p>
+&lt;p>Meine Philosophie basiert auf dem Prinzip kontinuierlicher Verbesserung. Ich bin fest davon überzeugt, dass Technologie sich ständig weiterentwickelt und es entscheidend ist, stets auf dem neuesten Stand zu bleiben, um Innovationen voranzutreiben und außergewöhnliche Ergebnisse zu erzielen. Ich strebe danach, stets auf dem neuesten Stand der Fortschritte im Cloud Computing, der Infrastrukturautomatisierung und den DevOps-Methoden zu bleiben, um meinen Kunden wegweisende Lösungen anzubieten.&lt;/p></description></item><item><title>Publikationen</title><link>//devil-engineering.de/de/publications/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/de/publications/</guid><description>&lt;p>Tauchen Sie ein in eine Sammlung meiner Plugins, Extensions und inspirierenden Vorträge die ich in den letzten Jahren der Community zur Verfügung gestellt habe.&lt;/p>
+&lt;div class="timeline">
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Fake the Unfakeable&lt;/div>
+ &lt;div class="body">&lt;p>Talk about Isolating Code Under Test with Microsoft Fakes©&lt;/p>
+&lt;p>Find slides &lt;a href="//devil-engineering.de/presentations/ms_shims_fakes.pdf" >here&lt;/a> and modules on &lt;a href="https://github.com/5minds/fe_fakes" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
+&lt;/div>
+ &lt;div class="meta">
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2014&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">Was dir Trivialbeispiele in Async and Await nicht sagen!&lt;/div>
+ &lt;div class="body">&lt;p>Talk about evolution of asynchronous development and patterns when using async/await&lt;/p>
+&lt;p>Find slides &lt;a href="//devil-engineering.de/presentations/async_await.pdf" >here&lt;/a> and modules on &lt;a href="https://github.com/5minds/fe_async_await" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
+&lt;/div>
+ &lt;div class="meta">
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2014&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+&lt;div class="container">
+ &lt;div class="content">
+ &lt;div class="title">ASP.NET MVC NUnit&lt;/div>
+ &lt;div class="body">&lt;p>An &lt;a href="https://marketplace.visualstudio.com/publishers/devILengineering" class="external-link" target="_blank" rel="noopener">Visual Studio extension&lt;/a> which adds a project and an item template to generate NUnit based tests of ASP.NET MVC 3 and ASP.NET MVC 4 applications. NUnit as NuGet package reference is already is included.&lt;/p></description></item></channel></rss>
