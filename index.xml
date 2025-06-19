@@ -971,39 +971,62 @@ Deutschland&lt;/p>
 "API Management",
 "ASP.NET MVC",
 "ASP.NET WebApi",
-"AppConfiguration",
+"Application Insights",
+"ARM Templates",
+"AutoFixture",
+"Azure AppConfiguration",
 "Azure AppServices",
-"Azure Functions",
 "Azure DevOps",
+"Azure Functions",
+"Azure Monitor",
 "Azure Pipelines",
 "Backbone.js",
+"Bicep",
+"Blazor",
+"Branch Policies",
 "C",
 "C#",
 "C++",
 "CosmosDB",
+"Coverlet",
+"CQRS",
+"Custom Resource Definitions",
 "Docker",
 "EMC Centera",
 "Elastic jobs",
 "Entity Framework",
 "Event Grid",
 "FluentAssertions",
+"Git",
+"Grafana",
+"gRPC",
 "Helm",
+"Infrastructure as Code",
 "Java",
 "Javascript",
 "keda.sh",
 "Kubernetes",
+"Kubernetes Operators",
 "KQL",
 "Marionette.js",
+"Mediator Pattern",
+"MediatR",
 "MongoDB",
 "Moq",
 "MSTest",
 "NUnit",
+"Operator Pattern",
 "PHP",
+"Polly",
 "PRISM",
+"Prometheus",
+"Pull Requests",
 "Python",
+"Reconciliation",
 "Replication",
 "Rider",
 "Scrum",
+"SonarQube",
 "SQL Server",
 "T-SQL",
 "TypeScript",
@@ -1011,17 +1034,21 @@ Deutschland&lt;/p>
 "WCF",
 "WF",
 "WPF",
+"YAML Pipelines",
 ];
 
- var color = d3.scaleOrdinal(d3.schemePastel1);
+ var nordColors = ["#39404d","#46505e","#434C5E","#4C566A","#D8DEE9",
+ "#E5E9F0","#ECEFF4","#8FBCBB","#88C0D0","#81A1C1","#5E81AC"];
+
+ var color = d3.scaleOrdinal(nordColors);
  var layout = d3.layout.cloud()
  .size([768, 768])
  .words(skills.map(function(d) {
- return {text: d, size: 10 + Math.random() * 90, test: "testing"};
+ return {text: d, size: 12 + Math.random() * 30, test: "testing"};
  }))
- .padding(5)
+ .padding(3)
  .rotate(function() { return (~~(Math.random() * 6) - 3) * 30; })
- .spiral("archimedean")
+ .spiral("rectangular")
  .font("Impact")
  .fontSize(function(d) { return d.size; })
  .on("end", draw);
