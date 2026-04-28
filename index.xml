@@ -911,58 +911,33 @@ Deutschland&lt;/p>
 
 &lt;div class="container">
  &lt;div class="content">
+ &lt;div class="title">KubeOps — dotnet-operator-sdk&lt;/div>
+ &lt;div class="body">&lt;p>&lt;a href="https://github.com/dotnet/dotnet-operator-sdk" class="external-link" target="_blank" rel="noopener">KubeOps&lt;/a> is a Kubernetes Operator SDK for .NET, strongly inspired by kubebuilder. It enables developers to build production-grade Kubernetes operators using C# and ASP.NET Core — bridging the gap between the .NET ecosystem and Cloud Native infrastructure.&lt;/p>
+&lt;p>Contributing as collaborator since November 2025.&lt;/p>
+&lt;/div>
+ &lt;div class="meta">
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="date">2025&lt;/div>
+&lt;/div>
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+&lt;div class="container">
+ &lt;div class="content">
  &lt;div class="title">Fake the Unfakeable&lt;/div>
- &lt;div class="body">&lt;p>Talk about Isolating Code Under Test with Microsoft Fakes©&lt;/p>
-&lt;p>Find slides &lt;a href="//devil-engineering.de/presentations/ms_shims_fakes.pdf" >here&lt;/a> and modules on &lt;a href="https://github.com/5minds/fe_fakes" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
-&lt;/div>
- &lt;div class="meta">
- 
- 
- &lt;/div>
- &lt;/div>
- &lt;div class="date">2014&lt;/div>
-&lt;/div>
-
- 
-
-
-
- 
- 
-
-
-
-
-
-&lt;div class="container">
- &lt;div class="content">
- &lt;div class="title">Was dir Trivialbeispiele in Async and Await nicht sagen!&lt;/div>
- &lt;div class="body">&lt;p>Talk about evolution of asynchronous development and patterns when using async/await&lt;/p>
-&lt;p>Find slides &lt;a href="//devil-engineering.de/presentations/async_await.pdf" >here&lt;/a> and modules on &lt;a href="https://github.com/5minds/fe_async_await" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
-&lt;/div>
- &lt;div class="meta">
- 
- 
- &lt;/div>
- &lt;/div>
- &lt;div class="date">2014&lt;/div>
-&lt;/div>
-
- 
-
-
-
- 
- 
-
-
-
-
-
-&lt;div class="container">
- &lt;div class="content">
- &lt;div class="title">ASP.NET MVC NUnit&lt;/div>
- &lt;div class="body">&lt;p>An &lt;a href="https://marketplace.visualstudio.com/publishers/devILengineering" class="external-link" target="_blank" rel="noopener">Visual Studio extension&lt;/a> which adds a project and an item template to generate NUnit based tests of ASP.NET MVC 3 and ASP.NET MVC 4 applications. NUnit as NuGet package reference is already is included.&lt;/p></description></item><item><title>Skills</title><link>//devil-engineering.de/skills/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/skills/</guid><description>&lt;script src="//devil-engineering.de/js/d3.js">&lt;/script>
+ &lt;div class="body">&lt;p>Talk about Isolating Code Under Test with Microsoft Fakes©&lt;/p></description></item><item><title>Skills</title><link>//devil-engineering.de/skills/</link><pubDate>Mon, 05 Apr 2021 20:50:44 +0200</pubDate><guid>//devil-engineering.de/skills/</guid><description>&lt;script src="//devil-engineering.de/js/d3.js">&lt;/script>
 
 
 &lt;script src="//devil-engineering.de/js/d3.layout.cloud.js">&lt;/script>
