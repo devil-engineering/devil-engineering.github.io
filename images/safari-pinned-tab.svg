@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="logo-shape">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#logo-shape)">
+    <path fill="#000" d="M256 16a240 240 0 1 1 0 480 240 240 0 0 1 0-480Zm0 55a185 185 0 1 0 0 370 185 185 0 0 0 0-370Z"/>
+    <path fill="#000" d="M66 162 469 249 447 349 44 262Z"/>
+  </g>
+</svg>
