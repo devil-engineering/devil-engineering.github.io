@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /legal-disclosure
 Disallow: /de/legal-disclosure
+
+Sitemap: https://devil-engineering.de/sitemap.xml
